@@ -7,6 +7,9 @@
 
     <h1>Third change, where it will trigger jenkins job to build a new war through maven and send it to ansible host<br> and it will make a image and send to dockerhub</h1>
 
+    <h1>change now that made jenkins get repo, build with maven, send to ansible, ansible will build an image and send to dockerhub <br>
+      after that jenkins execute the second playbook that will run on docker server to run this image</h1>
+
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
